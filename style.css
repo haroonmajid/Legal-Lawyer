@@ -117,7 +117,7 @@
 #hero-section {
     height: 750px;
     width: 100%;
-    background: linear-gradient(to right, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)), url(Assets/h1_hero1.jpg.webp);
+    background: linear-gradient(to right, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)), url(h1_hero1.jpg.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -424,7 +424,7 @@
 
 
 #fifth-section {
-    background: url(Assets/section_bg1.jpg.webp);
+    background: url(section_bg1.jpg.webp);
     display: flex;
     justify-content: center;
     padding: 96px 0 81px;
